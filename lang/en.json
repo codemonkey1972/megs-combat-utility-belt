@@ -1,7 +1,7 @@
 {
     "megs-combat-utility-belt": {
         "SHORT_NAME": "CUB",
-        "NAME": "Combat Utility Belt",
+        "NAME": "MEGS MEGS Combat Utility Belt",
         "ID": "megs-combat-utility-belt",
         "ENHANCED_CONDITIONS" :{
             "OutputChatConfirm": {
@@ -77,7 +77,7 @@
             }
         },
         "CONCENTRATOR": {
-            "MessagePrefix": "Combat Utility Belt - Concentrator",
+            "MessagePrefix": "MEGS Combat Utility Belt - Concentrator",
             "NoMatchingCondition": "No matching condition found for Concentrator. Please check your Concentrator and Condition Lab",
             "Prompts": {
                 "Check": {
@@ -178,7 +178,7 @@
     "APPS.CUBPuter.NoInfo": "No additional info available",
     "APPS.CUBPuter.SelectGadget": "--Select a gadget--",
 
-    "APPS.Wiki.Title": "Combat Utility Belt Wiki",
+    "APPS.Wiki.Title": "MEGS Combat Utility Belt Wiki",
 
     "CONCENTRATOR.ConditionName": "Concentrating",
     "CONCENTRATOR.Alias": "Concentrator",
@@ -280,10 +280,10 @@
     "CUB.TRIGGLER.App.AdvancedTrigger.Name.Placeholder": "(required for advanced triggers)",
     "CUB.TRIGGLER.App.AdvancedTrigger.Name.Warning": "Name is required for advanced triggers!",
 
-    "SETTINGS.AboutApp.ButtonN": "About Combat Utility Belt",
-    "SETTINGS.AboutApp.ButtonH": "More info about Combat Utility Belt",
-    "SETTINGS.CUBPuter.ButtonN": "Combat Utility Belt Config",
-    "SETTINGS.CUBPuter.ButtonH": "Provides additional configuration for Combat Utility Belt",
+    "SETTINGS.AboutApp.ButtonN": "About MEGS Combat Utility Belt",
+    "SETTINGS.AboutApp.ButtonH": "More info about MEGS Combat Utility Belt",
+    "SETTINGS.CUBPuter.ButtonN": "MEGS Combat Utility Belt Config",
+    "SETTINGS.CUBPuter.ButtonH": "Provides additional configuration for MEGS Combat Utility Belt",
     
     "SETTINGS.Concentrator.EnableN": "Enable Concentrator",
     "SETTINGS.Concentrator.EnableH": "(Tested in D&D5e only)(Requires Enhanced Conditions) Forces concentration checks on tokens with the concentrating status effect when they take damage",

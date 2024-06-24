@@ -22,7 +22,7 @@
     "APPS.CUBPuter.NoInfo": "没有其他可用信息",
     "APPS.CUBPuter.SelectGadget": "--选择工具--",
 
-    "APPS.Wiki.Title": "Combat Utility Belt 百科",
+    "APPS.Wiki.Title": "MEGS Combat Utility Belt 百科",
 
     "CONCENTRATOR.ConditionName": "专注中",
     "CONCENTRATOR.Alias": "专注管理",
@@ -111,10 +111,10 @@
     "CUB.TRIGGLER.App.AdvancedTrigger.Name.Placeholder": "(高级触发器需要)",
     "CUB.TRIGGLER.App.AdvancedTrigger.Name.Warning": "高级触发器需要名称!",
 
-    "SETTINGS.AboutApp.ButtonN": "关于 Combat Utility Belt",
+    "SETTINGS.AboutApp.ButtonN": "关于 MEGS Combat Utility Belt",
     "SETTINGS.AboutApp.ButtonH": "相关详细信息 Combat Utility Belt",
-    "SETTINGS.CUBPuter.ButtonN": "Combat Utility Belt配置",
-    "SETTINGS.CUBPuter.ButtonH": "提供Combat Utility Belt额外的配置",
+    "SETTINGS.CUBPuter.ButtonN": "MEGS Combat Utility Belt配置",
+    "SETTINGS.CUBPuter.ButtonH": "提供MEGS Combat Utility Belt额外的配置",
     
     "SETTINGS.Concentrator.EnableN": "启用专注管理",
     "SETTINGS.Concentrator.EnableH": "（仅在D&D5e测试过）（需要开启状态增强）在有专注中的状态的角色受到伤害的时候强制进行专注检定",

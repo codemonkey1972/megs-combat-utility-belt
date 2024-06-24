@@ -21,7 +21,7 @@ export default class AboutApp extends FormApplication {
     static get defaultOptions() {
         return mergeObject(super.defaultOptions, {
             id: "megs-combat-utility-belt-about",
-            title: "About Combat Utility Belt",
+            title: "About MEGS Combat Utility Belt",
             template: `${PATH}/templates/about.hbs`,
             popOut: true,
             width: 500,

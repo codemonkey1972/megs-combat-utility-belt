@@ -3,7 +3,7 @@ import { MightySummoner } from "./mighty-summoner.js";
 
 export const NAME = "megs-combat-utility-belt";
 
-export const TITLE = "Combat Utility Belt";
+export const TITLE = "MEGS MEGS Combat Utility Belt";
 
 export const SHORTNAME = "cub";
 
@@ -132,7 +132,7 @@ export const HEALTH_STATES = {
 
 export const DEFAULT_CONFIG = {
     aboutApp: {
-        title: "About Combat Utility Belt"
+        title: "About MEGS Combat Utility Belt"
     },
     concentrator: {
         conditionName: "Concentrating",

@@ -12,7 +12,7 @@ export class Sidekick {
         
         const cubDiv = $(
             `<div id="megs-combat-utility-belt">
-                    <h4>Combat Utility Belt</h4>
+                    <h4>MEGS Combat Utility Belt</h4>
                 </div>`
         );
 
@@ -277,10 +277,10 @@ export class Sidekick {
                return id;
            }
            i++;
-           console.log(`Combat Utility Belt - Sidekick | Id ${id} already exists in the provided list of ids. ${i ? `This is attempt ${i} of ${iterations} `: ""}Trying again...`);
+           console.log(`MEGS Combat Utility Belt - Sidekick | Id ${id} already exists in the provided list of ids. ${i ? `This is attempt ${i} of ${iterations} `: ""}Trying again...`);
        }
 
-       throw new Error(`Combat Utility Belt - Sidekick | Tried to create a unique id over ${iterations} iterations and failed.`)
+       throw new Error(`MEGS Combat Utility Belt - Sidekick | Tried to create a unique id over ${iterations} iterations and failed.`)
     };
 
     /**
