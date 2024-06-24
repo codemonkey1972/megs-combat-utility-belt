@@ -711,7 +711,7 @@ export class EnhancedConditions {
     static _createLabButton(html) {
         if (!game.user.isGM) return;
 
-        const cubDiv = html.find("#combat-utility-belt");
+        const cubDiv = html.find("#megs-combat-utility-belt");
 
         const labButton = $(
             `<button id="condition-lab" data-action="condition-lab">

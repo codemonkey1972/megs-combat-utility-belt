@@ -505,7 +505,7 @@ export class CUBPuter extends FormApplication {
 export function createCUBPuterButton(html) {
     if (!game.user.isGM) return;
 
-    const cubDiv = html.find("#combat-utility-belt");
+    const cubDiv = html.find("#megs-combat-utility-belt");
 
     if (!cubDiv || !cubDiv.length) return;
     

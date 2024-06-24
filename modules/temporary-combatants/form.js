@@ -12,7 +12,7 @@ export class TemporaryCombatantForm extends FormApplication {
         return mergeObject(super.defaultOptions, {
             id: "temporary-combatant-form",
             title: game.i18n.localize(`${NAME}.TEMPORARY_COMBATANTS.Form.Title`),
-            template: "modules/combat-utility-belt/templates/temporary-combatant-form.html",
+            template: "modules/megs-combat-utility-belt/templates/temporary-combatant-form.html",
             classes: ["sheet"],
             width: 500,
             height: "auto",

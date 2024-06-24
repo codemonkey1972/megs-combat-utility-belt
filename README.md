@@ -1,4 +1,4 @@
-<div id="death-save-social" style="height:36px; background:rgba(255, 255, 255, 0.7); display: flex;text-align:center; padding-top:2px">
+<div id="codemonkey1972-social" style="height:36px; background:rgba(255, 255, 255, 0.7); display: flex;text-align:center; padding-top:2px">
 <span style="flex:1;">
 <a href="https://discord.gg/wwH7DQc" title="Discord"><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg"/></a></span>
 <span style="flex:1">
@@ -9,13 +9,13 @@
 <a href="https://www.youtube.com/channel/UCxhr66d1sjfXU4SQ5MEqPvg" title="YouTube"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /></a></span>
 </div><br/>
 
-![https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dflat%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fdeath-save%2Fcombat-utility-belt%2Fmaster%2Fmodule.json](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dflat%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fdeath-save%2Fcombat-utility-belt%2Fmaster%2Fmodule.json)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+![https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dflat%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fcodemonkey1972%2Fmegs-combat-utility-belt%2Fmaster%2Fmodule.json](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Fstyle%3Dflat%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fcodemonkey1972%2Fmegs-combat-utility-belt%2Fmaster%2Fmodule.json)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/death-save/combat-utility-belt) 
-[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/death-save/combat-utility-belt/releases/latest&color=green)](https://github.com/death-save/combat-utility-belt/releases/latest)
-[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Install%20Base&query=package.installs&suffix=%&url=https://forge-vtt.com/api/bazaar/package/combat-utility-belt&colorB=brightgreen)](https://forge-vtt.com/)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/codemonkey1972/megs-combat-utility-belt) 
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/codemonkey1972/megs-combat-utility-belt/releases/latest&color=green)](https://github.com/codemonkey1972/megs-combat-utility-belt/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Install%20Base&query=package.installs&suffix=%&url=https://forge-vtt.com/api/bazaar/package/megs-combat-utility-belt&colorB=brightgreen)](https://forge-vtt.com/)
 
 
 # Combat Utility Belt
@@ -23,10 +23,10 @@
 
 
 ---
-**[📚Wiki/How-To](https://github.com/death-save/combat-utility-belt/wiki)**    
-**[🐛Issues/Bugs](https://github.com/death-save/combat-utility-belt/issues)**    
-**[💬Contact](#death-save-social)**    
-**[📜Changelog](https://github.com/death-save/combat-utility-belt/blob/master/CHANGELOG.md)**    
+**[📚Wiki/How-To](https://github.com/codemonkey1972/megs-combat-utility-belt/wiki)**    
+**[🐛Issues/Bugs](https://github.com/codemonkey1972/megs-combat-utility-belt/issues)**    
+**[💬Contact](#codemonkey1972-social)**    
+**[📜Changelog](https://github.com/codemonkey1972/megs-combat-utility-belt/blob/master/CHANGELOG.md)**    
 **[📦Installation](#installation)**    
 **[🛠 Gadgets](#gadgets)**    
 **[👏Thanks/Attribution](#thanksattribution)**
@@ -69,7 +69,7 @@ Provides an option to distribute XP to player-characters at the end of combat
 ## Concentrator
 *(D&D5e only)*
 
-![concentrator](https://github.com/death-save/media/blob/master/combat-utility-belt/concentrator.gif)
+![concentrator](https://github.com/codemonkey1972/media/blob/master/megs-combat-utility-belt/concentrator.gif)
 
 A DM is responsible for all sorts of things, but keeping track those pesky spell casters and their concentration is one more thing that you shouldn't have to worry about!
 
@@ -80,7 +80,7 @@ Although it's not technically a gadget, think of the CUBputer as the control roo
 
 ## Enhanced Conditions
 
-![enhanced-conditions](https://github.com/death-save/media/blob/master/combat-utility-belt/enhanced-conditions.gif)
+![enhanced-conditions](https://github.com/codemonkey1972/media/blob/master/megs-combat-utility-belt/enhanced-conditions.gif)
 
 It's not enough to *show* your players when their poisoned, you want to really drive it  home by linking the condition so they can wallow in misery as they fail their ability checks.
 
@@ -94,7 +94,7 @@ The ideal place to concoct your ~~nefarious~~ heroic combination of status icons
 
 ## Hide Names
 
-![hide-npc-names](https://github.com/death-save/media/blob/master/combat-utility-belt/hide-npc-names.gif)
+![hide-npc-names](https://github.com/codemonkey1972/media/blob/master/megs-combat-utility-belt/hide-npc-names.gif)
 
 Maybe you forgot that your NPC's name reveals a dark secret about their past, or maybe you forgot to give them a name.
 
@@ -121,7 +121,7 @@ Pans the camera to and/or selects active combatants during combat
 
 ## Reroll Initiative
 
-![reroll-initiative](https://github.com/death-save/media/blob/master/combat-utility-belt/reroll-initiative.gif)
+![reroll-initiative](https://github.com/codemonkey1972/media/blob/master/megs-combat-utility-belt/reroll-initiative.gif)
 
 The BBEG rolled a 2 for initiative? Not anymore! This gadget rerolls initiative for all combatants each round.
 
@@ -157,43 +157,43 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Reaver01"><img src="https://avatars3.githubusercontent.com/u/1864450?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reaver01</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=Reaver01" title="Code">💻</a></td>
-    <td align="center"><a href="https://swendrowski.us"><img src="https://avatars1.githubusercontent.com/u/15639841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cody Swendrowski</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=cswendrowski" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/JacobMcAuley"><img src="https://avatars2.githubusercontent.com/u/12160735?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob McAuley</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=JacobMcAuley" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Moerill"><img src="https://avatars1.githubusercontent.com/u/26152015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Moerill</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=Moerill" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Reaver01"><img src="https://avatars3.githubusercontent.com/u/1864450?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reaver01</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=Reaver01" title="Code">💻</a></td>
+    <td align="center"><a href="https://swendrowski.us"><img src="https://avatars1.githubusercontent.com/u/15639841?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cody Swendrowski</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=cswendrowski" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/JacobMcAuley"><img src="https://avatars2.githubusercontent.com/u/12160735?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob McAuley</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=JacobMcAuley" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Moerill"><img src="https://avatars1.githubusercontent.com/u/26152015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Moerill</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=Moerill" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/BrotherSharper"><img src="https://avatars3.githubusercontent.com/u/41280723?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brother Sharp</b></sub></a><br /><a href="#translation-BrotherSharper" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/drdwing"><img src="https://avatars1.githubusercontent.com/u/66671688?v=4?s=100" width="100px;" alt=""/><br /><sub><b>drdwing</b></sub></a><br /><a href="#translation-drdwing" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/rinnocenti"><img src="https://avatars3.githubusercontent.com/u/3178127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Renato Innocenti</b></sub></a><br /><a href="#translation-rinnocenti" title="Translation">🌍</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/HonzoNebro"><img src="https://avatars2.githubusercontent.com/u/5500663?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HonzoNebro</b></sub></a><br /><a href="#translation-HonzoNebro" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/apoapostolov"><img src="https://avatars0.githubusercontent.com/u/4083812?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Apostol Apostolov</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/issues?q=author%3Aapoapostolov" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/Zamrod"><img src="https://avatars1.githubusercontent.com/u/12570777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zamrod</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/issues?q=author%3AZamrod" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/Rawrly85"><img src="https://avatars3.githubusercontent.com/u/53245027?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rawrly85</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/issues?q=author%3ARawrly85" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="http://stu.scot"><img src="https://avatars1.githubusercontent.com/u/6506599?v=4?s=100" width="100px;" alt=""/><br /><sub><b>STU</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=grandseiken" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/MikauSchekzen"><img src="https://avatars0.githubusercontent.com/u/2879734?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tijmen Bok</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=MikauSchekzen" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/shaun-newsome"><img src="https://avatars0.githubusercontent.com/u/7287194?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shaun-newsome</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=shaun-newsome" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/apoapostolov"><img src="https://avatars0.githubusercontent.com/u/4083812?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Apostol Apostolov</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/issues?q=author%3Aapoapostolov" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Zamrod"><img src="https://avatars1.githubusercontent.com/u/12570777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zamrod</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/issues?q=author%3AZamrod" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Rawrly85"><img src="https://avatars3.githubusercontent.com/u/53245027?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rawrly85</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/issues?q=author%3ARawrly85" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://stu.scot"><img src="https://avatars1.githubusercontent.com/u/6506599?v=4?s=100" width="100px;" alt=""/><br /><sub><b>STU</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=grandseiken" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/MikauSchekzen"><img src="https://avatars0.githubusercontent.com/u/2879734?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tijmen Bok</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=MikauSchekzen" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shaun-newsome"><img src="https://avatars0.githubusercontent.com/u/7287194?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shaun-newsome</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=shaun-newsome" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/tposney"><img src="https://avatars2.githubusercontent.com/u/4486143?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tposney</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=tposney" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/tpendragon"><img src="https://avatars1.githubusercontent.com/u/2806645?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Trey Pendragon</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=tpendragon" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/tposney"><img src="https://avatars2.githubusercontent.com/u/4486143?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tposney</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=tposney" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/tpendragon"><img src="https://avatars1.githubusercontent.com/u/2806645?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Trey Pendragon</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=tpendragon" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hmqgg"><img src="https://avatars1.githubusercontent.com/u/36689909?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hmqgg</b></sub></a><br /><a href="#translation-hmqgg" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/SalieriC"><img src="https://avatars1.githubusercontent.com/u/1230041?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SalieriC</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/issues?q=author%3ASalieriC" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="http://sleys.net/blog"><img src="https://avatars2.githubusercontent.com/u/105347?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bob Sleys</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/issues?q=author%3Absleys" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/SalieriC"><img src="https://avatars1.githubusercontent.com/u/1230041?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SalieriC</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/issues?q=author%3ASalieriC" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://sleys.net/blog"><img src="https://avatars2.githubusercontent.com/u/105347?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bob Sleys</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/issues?q=author%3Absleys" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/trdischat"><img src="https://avatars1.githubusercontent.com/u/52774325?v=4?s=100" width="100px;" alt=""/><br /><sub><b>trdischat</b></sub></a><br /><a href="#ideas-trdischat" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/kandashi"><img src="https://avatars2.githubusercontent.com/u/1347785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kandashi</b></sub></a><br /><a href="#ideas-kandashi" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/death-save/combat-utility-belt/issues?q=author%3Akandashi" title="Bug reports">🐛</a> <a href="#question-kandashi" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/kandashi"><img src="https://avatars2.githubusercontent.com/u/1347785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kandashi</b></sub></a><br /><a href="#ideas-kandashi" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/codemonkey1972/megs-combat-utility-belt/issues?q=author%3Akandashi" title="Bug reports">🐛</a> <a href="#question-kandashi" title="Answering Questions">💬</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/DanOrc"><img src="https://avatars1.githubusercontent.com/u/9914380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DanOrc</b></sub></a><br /><a href="#ideas-DanOrc" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/death-save/combat-utility-belt/issues?q=author%3ADanOrc" title="Bug reports">🐛</a> <a href="#question-DanOrc" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/DanOrc"><img src="https://avatars1.githubusercontent.com/u/9914380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>DanOrc</b></sub></a><br /><a href="#ideas-DanOrc" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/codemonkey1972/megs-combat-utility-belt/issues?q=author%3ADanOrc" title="Bug reports">🐛</a> <a href="#question-DanOrc" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/acd-jake"><img src="https://avatars1.githubusercontent.com/u/67855941?v=4?s=100" width="100px;" alt=""/><br /><sub><b>acd-jake</b></sub></a><br /><a href="#translation-acd-jake" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/FuyuEnnju"><img src="https://avatars.githubusercontent.com/u/55729032?v=4?s=100" width="100px;" alt=""/><br /><sub><b>长耳</b></sub></a><br /><a href="#translation-FuyuEnnju" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Wibble199"><img src="https://avatars.githubusercontent.com/u/3984322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Will Bennion</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=Wibble199" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/flamewave000"><img src="https://avatars.githubusercontent.com/u/3588046?v=4?s=100" width="100px;" alt=""/><br /><sub><b>flamewave000</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=flamewave000" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Wibble199"><img src="https://avatars.githubusercontent.com/u/3984322?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Will Bennion</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=Wibble199" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/flamewave000"><img src="https://avatars.githubusercontent.com/u/3588046?v=4?s=100" width="100px;" alt=""/><br /><sub><b>flamewave000</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=flamewave000" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/WallaceMcGregor"><img src="https://avatars.githubusercontent.com/u/17795541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WallaceMcGregor</b></sub></a><br /><a href="#translation-WallaceMcGregor" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Hertzila"><img src="https://avatars.githubusercontent.com/u/7857080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hertzila</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=hertzila" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Hertzila"><img src="https://avatars.githubusercontent.com/u/7857080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hertzila</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=hertzila" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Autmor"><img src="https://avatars.githubusercontent.com/u/66399049?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Autmor</b></sub></a><br /><a href="https://github.com/death-save/combat-utility-belt/commits?author=Autmor" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Autmor"><img src="https://avatars.githubusercontent.com/u/66399049?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Autmor</b></sub></a><br /><a href="https://github.com/codemonkey1972/megs-combat-utility-belt/commits?author=Autmor" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/MichalGolaszewski"><img src="https://avatars.githubusercontent.com/u/46850235?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michał Gołaszewski</b></sub></a><br /><a href="#translation-MichalGolaszewski" title="Translation">🌍</a></td>
   </tr>
 </table>

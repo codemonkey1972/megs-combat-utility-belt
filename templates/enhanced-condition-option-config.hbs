@@ -1,6 +1,6 @@
 <form data-condition-id="{{condition.id}}">
-    <h2>{{condition.name}} - {{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.Heading"}}</h3>
-    <p class="notes">{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.Description"}}</p>
+    <h2>{{condition.name}} - {{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.Heading"}}</h3>
+    <p class="notes">{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.Description"}}</p>
     {{!-- <div class="flexrow options"> --}}
         <div class="formgroup" title="{{localize "ENHANCED_CONDITIONS.Lab.Options.Overlay.Title"}}">
             <input type="checkbox" name="overlay" {{checked condition.options.overlay}} {{#if ../isDefault}}disabled{{/if}}>
@@ -34,31 +34,31 @@
             </label>
             <p class="notes">{{localize "ENHANCED_CONDITIONS.Lab.Options.MarkDefeated.Title"}}</p>
         </div>
-        <h3>{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.SpecialStatusEffects.Heading"}}</h3>
-        <p class="notes">{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.SpecialStatusEffects.Description"}}</p>
-        <div class="formgroup" title="{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.BlindToken.Label"}}">
+        <h3>{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.SpecialStatusEffects.Heading"}}</h3>
+        <p class="notes">{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.SpecialStatusEffects.Description"}}</p>
+        <div class="formgroup" title="{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.BlindToken.Label"}}">
             <input type="checkbox" name="blind-token" {{checked condition.options.blindToken}} {{#if ../isDefault}}disabled{{/if}}>
             <label for="blind-token">
-                {{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.BlindToken.Label"}}
+                {{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.BlindToken.Label"}}
                 {{!-- <span class="tooltip"><i class="fas fa-question-circle"></i></span> --}}
             </label>
-            <p class="notes">{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.BlindToken.Notes"}}</p>
+            <p class="notes">{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.BlindToken.Notes"}}</p>
         </div>
-        <div class="formgroup" title="{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.MarkInvisible.Label"}}">
+        <div class="formgroup" title="{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.MarkInvisible.Label"}}">
             <input type="checkbox" name="mark-invisible" {{checked condition.options.markInvisible}} {{#if ../isDefault}}disabled{{/if}}>
             <label for="mark-invisible">
-                {{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.MarkInvisible.Label"}}
+                {{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.MarkInvisible.Label"}}
                 {{!-- <span class="tooltip"><i class="fas fa-question-circle"></i></span> --}}
             </label>
-            <p class="notes">{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.MarkInvisible.Notes"}}</p>
+            <p class="notes">{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.MarkInvisible.Notes"}}</p>
         </div>
     {{!-- </div> --}}
     <br/>    
     <div class="footer">
         {{canSave}}
         <button name="save" class="save" type="submit">
-            <i class="fas fa-save"></i>&nbsp;{{localize "combat-utility-belt.PHRASES.SaveAndClose"}}
+            <i class="fas fa-save"></i>&nbsp;{{localize "megs-combat-utility-belt.PHRASES.SaveAndClose"}}
         </button>
-        <p class="notes">{{localize "combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.SaveNote"}}</p>
+        <p class="notes">{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.OptionConfig.SaveNote"}}</p>
     </div>
 </form>

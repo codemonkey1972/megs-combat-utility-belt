@@ -1,9 +1,9 @@
 {
     "Localization Provided By": "touge",
-    "combat-utility-belt": {
+    "megs-combat-utility-belt": {
         "SHORT_NAME": "CUB",
         "NAME": "Combat Utility Belt",
-        "ID": "combat-utility-belt",
+        "ID": "megs-combat-utility-belt",
         "ENHANCED_CONDITIONS.OutputChatConfirm": {
             "Title": "チャットにすべての状態異常を出力しますか？",
             "Content": "「はい」ですべての状態異常が設定関係なくチャットに出力されます。"

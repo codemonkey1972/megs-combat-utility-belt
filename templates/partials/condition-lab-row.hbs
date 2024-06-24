@@ -15,15 +15,15 @@
                         <div class="flexrow">
                             <div class="condition">
                                 <div class="wrapper-rel">
-                                    <label for="condition-{{@index}}" class="inset-label">{{localize "combat-utility-belt.WORDS.Name"}}</label>
+                                    <label for="condition-{{@index}}" class="inset-label">{{localize "megs-combat-utility-belt.WORDS.Name"}}</label>
                                     <input type="text" name="condition-{{@index}}" title="Condition" value="{{condition.name}}" class="condition condition-text-input" placeholder="Condition Name" data-dtype="String" {{#if isDefault}}disabled{{/if}}>
                                 </div>
                             </div>
                         </div>
                         <div class="flexrow condition-lab text-entry reference">
                             <div class="wrapper-rel">
-                                <label for="reference-item-{{@index}}" class="inset-label">{{localize "combat-utility-belt.WORDS.Reference"}}</label>
-                                <input type="text" name="reference-item-{{@index}}" value="{{condition.referenceId}}" title="Condition Reference" placeholder="{{localize "combat-utility-belt.ENHANCED_CONDITIONS.ConditionLab.NoReference"}}" {{#if isDefault}}disabled{{/if}}>
+                                <label for="reference-item-{{@index}}" class="inset-label">{{localize "megs-combat-utility-belt.WORDS.Reference"}}</label>
+                                <input type="text" name="reference-item-{{@index}}" value="{{condition.referenceId}}" title="Condition Reference" placeholder="{{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.ConditionLab.NoReference"}}" {{#if isDefault}}disabled{{/if}}>
                             </div>
                             <div class="enriched-link">{{{condition.enrichedReference}}}</div>
                         </div>
@@ -32,7 +32,7 @@
                 <!--row 2 reference-->
                 <div class="flexrow path">
                     <div class="wrapper-rel">
-                        <label for="icon-path-{{@index}}" class="inset-label">{{localize "combat-utility-belt.WORDS.Icon"}}</label>
+                        <label for="icon-path-{{@index}}" class="inset-label">{{localize "megs-combat-utility-belt.WORDS.Icon"}}</label>
                         <input type="text" name="icon-path-{{@index}}" title="Status Icon Path" class="icon-path condition-text-input" value="{{condition.icon}}" placeholder="/icons/example.svg" data-dtype="String" {{#if isDefault}}disabled{{/if}}>
                     </div>
                     <button type="button" name="file-picker-{{@index}}" class="file-picker" data-type="image" data-target="icon-path-{{@index}}" title="Browse Files" tabindex="-1" {{#if isDefault}}hidden{{/if}}>
@@ -48,7 +48,7 @@
                             name="option-config"
                             class="option-config"
                             title="{{condition.optionButtonTitle}}">
-                            <i class="fas fa-cog"></i> {{localize "combat-utility-belt.ENHANCED_CONDITIONS.ConditionLab.Buttons.Options"}}
+                            <i class="fas fa-cog"></i> {{localize "megs-combat-utility-belt.ENHANCED_CONDITIONS.ConditionLab.Buttons.Options"}}
                         </button>
                         <button type="button"
                                 class="active-effect-config"
@@ -64,7 +64,7 @@
                         <button type="button"
                             class="trigger-config"
                             title="{{condition.triggerButtonTitle}}">
-                            {{> "modules/combat-utility-belt/templates/partials/triggler-icon.hbs"}} Triggers
+                            {{> "modules/megs-combat-utility-belt/templates/partials/triggler-icon.hbs"}} Triggers
                         </button>
                         <button type="button"
                             name="macro-config"

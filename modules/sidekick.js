@@ -11,7 +11,7 @@ export class Sidekick {
         if (!game.user.isGM) return;
         
         const cubDiv = $(
-            `<div id="combat-utility-belt">
+            `<div id="megs-combat-utility-belt">
                     <h4>Combat Utility Belt</h4>
                 </div>`
         );

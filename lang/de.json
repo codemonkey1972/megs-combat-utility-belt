@@ -1,8 +1,8 @@
 {
-    "combat-utility-belt": {
+    "megs-combat-utility-belt": {
         "SHORT_NAME": "CUB",
         "NAME": "Combat Utility Belt",
-        "ID": "combat-utility-belt",
+        "ID": "megs-combat-utility-belt",
         "ENHANCED_CONDITIONS": {
             "OutputChatConfirm": {
                 "Title": "Chat-Ausgabe für ALLE Zustände aktivieren??",

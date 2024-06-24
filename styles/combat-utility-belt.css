@@ -669,38 +669,38 @@ a.add-temporary {
   flex: 0;
 }
 
-#settings div#combat-utility-belt {
+#settings div#megs-combat-utility-belt {
   margin: 0;
 }
 
 /* ABOUT */
-#combat-utility-belt-about img {
+#megs-combat-utility-belt-about img {
     border: none;
 }
 
-#combat-utility-belt-about .logo {
+#megs-combat-utility-belt-about .logo {
     width: 600px;
 }
 
-#combat-utility-belt-about .version {
+#megs-combat-utility-belt-about .version {
     flex-grow: 0;
 }
 
-#combat-utility-belt-about .readme {
+#megs-combat-utility-belt-about .readme {
   text-align: center;
 
 }
 
-#combat-utility-belt-about a {
+#megs-combat-utility-belt-about a {
   text-shadow: 1px 1px black;
 }
 
 
-#combat-utility-belt-about div.patrons {
+#megs-combat-utility-belt-about div.patrons {
     width: 100%;
 }
 
-#combat-utility-belt-about .patrons ol {
+#megs-combat-utility-belt-about .patrons ol {
     height: 175px;
     border: 1px inset white;
     list-style: none;
@@ -709,27 +709,27 @@ a.add-temporary {
     padding: 2px;
 }
 
-#combat-utility-belt-about .patrons li:nth-child(odd) {
+#megs-combat-utility-belt-about .patrons li:nth-child(odd) {
     background: rgba(0,0,0,0.2);
 }
 
-#combat-utility-belt-about .patrons li {
+#megs-combat-utility-belt-about .patrons li {
     font-size: x-large;
 }
 
-#combat-utility-belt-about footer div {
+#megs-combat-utility-belt-about footer div {
     justify-content: center;
     text-align: center;
 }
 
-#combat-utility-belt-about .death-save {
+#megs-combat-utility-belt-about .codemonkey1972 {
     flex: 0 0 120px;
 }
 
-#combat-utility-belt-about .heart {
+#megs-combat-utility-belt-about .heart {
     color: tomato;
 }
 
-#combat-utility-belt-about .patreon img {
+#megs-combat-utility-belt-about .patreon img {
     flex: 0 0 100px;
 }

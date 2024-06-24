@@ -1,15 +1,15 @@
 import { EnhancedConditions } from "./enhanced-conditions/enhanced-conditions.js";
 import { MightySummoner } from "./mighty-summoner.js";
 
-export const NAME = "combat-utility-belt";
+export const NAME = "megs-combat-utility-belt";
 
 export const TITLE = "Combat Utility Belt";
 
 export const SHORTNAME = "cub";
 
-export const PATH = "modules/combat-utility-belt";
+export const PATH = "modules/megs-combat-utility-belt";
 
-export const WIKIPATH = "https://github.com/death-save/combat-utility-belt/wiki"
+export const WIKIPATH = "https://github.com/codemonkey1972/megs-combat-utility-belt/wiki"
 
 export const GADGETS = {
     giveXP: {
@@ -161,7 +161,7 @@ export const DEFAULT_CONFIG = {
             gm: "GM & Owner/s",
             all: "Everyone"
         },
-        icon: "modules/combat-utility-belt/icons/concentrating.svg",
+        icon: "modules/megs-combat-utility-belt/icons/concentrating.svg",
         alias: "Concentrator",
         concentrationStatuses: {
             breaking: "breaking",

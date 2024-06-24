@@ -16,7 +16,7 @@ export class Triggler {
             return;
         }
 
-        const cubDiv = html.find("#combat-utility-belt");
+        const cubDiv = html.find("#megs-combat-utility-belt");
         const trigglerButton = await renderTemplate(DEFAULT_CONFIG.triggler.templatePaths.trigglerButton);
         const $button = $(trigglerButton);
         

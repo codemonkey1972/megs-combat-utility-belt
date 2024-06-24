@@ -1,8 +1,8 @@
 {
-    "combat-utility-belt": {
+    "megs-combat-utility-belt": {
                 "SHORT_NAME": "CUB",
         "NAME": "Combat Utility Belt",
-        "ID": "combat-utility-belt",
+        "ID": "megs-combat-utility-belt",
         "ENHANCED_CONDITIONS.OutputChatConfirm": {
             "Title": "모든 상태에 대한 채팅 출력을 활성화 하시겠습니까?",
             "Content": "모든 상태에 대해 '채팅으로 출력'을 활성화하려면 '예'를 클릭하십시오."
